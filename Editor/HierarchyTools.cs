@@ -15,8 +15,6 @@ public class HierarchyTools : EditorWindow
 	public static void ShowWindow()
 	{
 		EditorWindow window = GetWindow<HierarchyTools>("Hierarchy");
-		
-		window.titleContent.image = AssetDatabase.LoadAssetAtPath<Texture>("Assets/Textures/UserInterface/Editor/Options.png");
 	}
 
 	/* Methods: Private */
