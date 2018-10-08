@@ -2,7 +2,7 @@
 Some simple tools for Unity hierarchy.
 
 Open through Window > Tools > Hierarchy
-![Preview](preview.jpg)
+![Preview](Preview.jpg)
 
 ## Prefab
 Revert - Effectively the same as going through each prefab individually and clicking "revert."
