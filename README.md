@@ -2,6 +2,7 @@
 Some simple tools for Unity hierarchy.
 
 Open through Window > Tools > Hierarchy
+
 ![Preview](Preview.jpg)
 
 ## Prefab
